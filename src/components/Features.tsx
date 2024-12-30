@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Cpu, Leaf, Zap, Brain, Globe, VrHeadset } from "lucide-react";
+import { Cpu, Leaf, Zap, Brain, Globe, Headset } from "lucide-react";
 
 const features = [
   {
@@ -28,7 +28,7 @@ const features = [
     description: "Embedding ethical algorithms for human-centered solutions.",
   },
   {
-    icon: VrHeadset,
+    icon: Headset,
     title: "Celestial Metaverse",
     description: "Real-time simulations enabling predictive modeling for global challenges.",
   },
